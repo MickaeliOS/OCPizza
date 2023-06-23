@@ -1,7 +1,7 @@
 # OpenClassrooms-P6-OCPizza
 
 Let's take a break from the coding projects and start focusing about project management.  
-In the current project, our focus is on building the functional specifications for OCPizza, a pizza restaurant that requires a system upgrade to meet their evolving needs. 
+In the current project, our focus is on building the functional specifications for OCPizza, a chain of pizza restaurants that requires a system upgrade to meet their evolving needs. 
 
 The key objectives are as follows:
 
